@@ -1,3 +1,48 @@
+AngularJS training
+==================
+
+fetch all dependencies:
+
+    npm install
+
+continuous development mode:
+
+    npm start
+
+continuous unit tests:
+
+    npm test
+
+build the application:
+
+    npm run build
+
+start REST API:
+
+    git clone https://github.com/ducin-public/itcorpo-api
+
+additional resources
+--------------------
+
+ * [AngularJS unit testing guide](https://docs.angularjs.org/guide/unit-testing)
+
+additional software used
+------------------------
+
+app:
+
+ * [`twitter bootstrap`](http://getbootstrap.com/), [`starter-template`](http://getbootstrap.com/examples/starter-template/)
+ * [`angular-ui-bootstrap`](https://angular-ui.github.io/bootstrap/)
+ * [`angular-busy`](https://github.com/cgross/angular-busy)
+
+cli:
+
+ * [`json-server`](https://github.com/typicode/json-server) / [`mock-rest-api`](https://github.com/ducin-public/mock-rest-api)
+ * [`http-server`](https://github.com/indexzero/http-server)
+
+
+----
+
 # angularjs-webpack
 
 [![Dependency Status](https://david-dm.org/preboot/angularjs-webpack/status.svg)](https://david-dm.org/preboot/angular-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/preboot/angularjs-webpack/dev-status.svg)](https://david-dm.org/preboot/angularjs-webpack#info=devDependencies)
